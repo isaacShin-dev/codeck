@@ -1,0 +1,38 @@
+.tag{cursor: grab;}
+.moving{cursor: grabbing;}
+.header-1{
+  font-size: 2rem;
+  vertical-align: ---;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.header-2{
+  font-size: 1.5rem;
+}
+.header-3{
+  font-size: 1.2rem;
+}
+
+.pre{
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #aaafb5;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  background-color: #011627;
+  border: 0;
+  border-radius: 0;
+  outline: 0;
+  box-shadow: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  resize: none;
+  overflow: visible;
+  cursor: grab;
+}
